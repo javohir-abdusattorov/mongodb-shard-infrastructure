@@ -1,0 +1,8 @@
+{
+    "_id": "myshard:shard-1",
+    "members": [
+        { "_id": 1, "host": "localhost:28020", "priority": 1, "votes": 1 },
+        { "_id": 2, "host": "localhost:28021", "priority": 1, "votes": 1 },
+        { "_id": 3, "host": "localhost:28022", "priority": 1, "votes": 1 }
+    ]
+}
